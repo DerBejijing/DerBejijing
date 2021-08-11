@@ -5,6 +5,9 @@ Hello there! I am (more or less) known as Der_Bejijing. I am from Germany and on
 I enjoy programming in java, python, bash and c++ and make minecraft Datapacks.  
 I spent/waste a lot of time digging through minecrafts source code.  
 
+## Current Projects
+Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm I decided to make public.  
+You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)  
 
 ## Contacting me
 If you would, for any reason want to contact me, you can message me on discord.  

@@ -2,7 +2,7 @@
 
 ## About me
 Hello there! I am (more or less) known as Der_Bejijing. I am from Germany and one could translate my name to "The Bejijing".  
-I enjoy programming in java, python and c++ and make minecraft Datapacks.  
+I enjoy programming in java, python, bash and c++ and make minecraft Datapacks.  
 I spent/waste a lot of time digging through minecrafts source code.  
 
 

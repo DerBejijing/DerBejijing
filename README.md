@@ -3,7 +3,7 @@
 ## About me
 Hello there! I am (more or less) known as Der_Bejijing. I am from Germany and one could translate my name to "The Bejijing".  
 I enjoy programming in java, python, bash and c++ and make minecraft Datapacks.  
-I spent/waste a lot of time digging through minecrafts source code.  
+I spend/waste a lot of time digging through minecrafts source code.  
 
 ## Current Projects
 Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm I decided to make public.  
@@ -20,5 +20,5 @@ My username is DerBejijing#2542
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>My amazing stats
-
+<!-- go brrrrrrr !-->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Design is inspired by Hexeption

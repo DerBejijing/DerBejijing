@@ -9,16 +9,32 @@ I spend/waste a lot of time digging through minecrafts source code.
 Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm I decided to make public.  
 You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)  
 
+## Stuff I am using
+<div style="display: flex;flex-direction: row;">
+  <p align="left">
+    <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.svg" width="48"></a>
+    <a href="https://www.archlinux.org/">   <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arch.svg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c++.svg" width="48"></a>
+    <a href="https://www.ubuntu.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/ubuntu.svg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/bash.svg" width="48"></a>
+    <a href="https://www.github.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/github.svg" width="48"></a>
+    <a href="https://www.arduino.cc/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arduino.svg" width="48"></a>
+    <a href="https://www.eclipse.org/">     <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/eclipse.svg" width="48"></a>
+    <a href="https://www.atom.io">          <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/atom.svg" width="48"></a>
+    <a href="https://www.codeblocks.org/">  <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/codeblocks.svg" width="48"></a>
+    <a href="https://www.apple.com/">       <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/macOS.svg" width="48"></a>
+    <a href="https://www.python.org/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/python.svg" width="48"></a>
+    <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.svg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vim.svg" width="48"></a>
+  </p>
+</div>
+
 ## Contacting me
 If you would, for any reason want to contact me, you can message me on discord.  
 My username is DerBejijing#2542
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>My amazing stats
-<!-- go brrrrrrr !-->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Design is inspired by Hexeption

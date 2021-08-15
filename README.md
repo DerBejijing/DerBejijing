@@ -5,9 +5,13 @@ Hello there! I am (more or less) known as Der_Bejijing. I am from Germany and on
 I enjoy programming in java, python, bash and c++ and make minecraft Datapacks.  
 I spend/waste a lot of time digging through minecrafts source code.  
 
+<br/>
+
 ## Current Projects
 Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm I decided to make public.  
 You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)  
+
+<br/>
 
 ## Stuff I am using
 <div style="display: flex;flex-direction: row;">
@@ -29,6 +33,8 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
   </p>
 </div>
 
+<br/>
+
 ## Games I play
 <div style="display: flex;flex-direction: row;">
   <p align="left">
@@ -39,11 +45,15 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
   </p>
 </div>
 
+<br/>
+
 ## Contacting me
-If you would, for any reason want to contact me, you can message me on discord.  
+If you would, for any reason, want to contact me, you can message me on discord.  
 My username is DerBejijing#2542
 
 ---
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />

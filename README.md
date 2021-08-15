@@ -29,6 +29,17 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
   </p>
 </div>
 
+## Games I play
+<div style="display: flex;flex-direction: row;">
+  <p align="left">
+    <a href="https://www.minecraft.net/"><img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons_games/minecraft.svg" width="48"></a>
+    <a href="https://store.steampowered.com/app/400/Portal/"><img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons_games/portal.svg" width="48"></a>
+    <a href="https://store.steampowered.com/app/620/Portal_2/"><img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons_games/portal-2.svg" width="48"></a>
+    <a href="https://store.steampowered.com/app/317400/Portal_Stories_Mel/"><img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons_games/mel.svg" width="48"></a>
+    <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"><img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons_games/csfo.svg" width="48"></a>
+  </p>
+</div>
+
 ## Contacting me
 If you would, for any reason want to contact me, you can message me on discord.  
 My username is DerBejijing#2542

@@ -30,6 +30,7 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
     <a href="https://www.python.org/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/python.svg" width="48"></a>
     <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.svg" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vim.svg" width="48"></a>
+    <a href="https://hackthebox.eu">        <img src="https://www.hackthebox.eu/images/landingv3/favicon.png" width="48"></a>
   </p>
 </div>
 

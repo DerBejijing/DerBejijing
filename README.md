@@ -8,7 +8,7 @@ I spend/waste a lot of time digging through minecrafts source code.
 <br/>
 
 ## Current Projects
-Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm I decided to make public.  
+Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm which I decided to make public.  
 You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)  
 
 <br/>

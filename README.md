@@ -2,16 +2,19 @@
 
 ## About me
 Hello there! I am (more or less) known as Der_Bejijing. I am from Germany and one could translate my name to "The Bejijing".  
-I enjoy programming in java, python, bash and c++ and make minecraft Datapacks.  
+I enjoy programming in java, python, bash and c(++) and make minecraft Datapacks.  
+Also I am interested in everything about linux and low-level stuff like assembly langunage.  
 I spend/waste a lot of time digging through minecrafts source code.  
 
 <br/>
+
 
 ## Current Projects
 Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm which I decided to make public.  
 You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)  
 
 <br/>
+
 
 ## Stuff I am using
 <div style="display: flex;flex-direction: row;">
@@ -35,6 +38,7 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
 </div>
 
 <br/>
+
 
 ## Games I play
 <div style="display: flex;flex-direction: row;">

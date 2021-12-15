@@ -53,7 +53,7 @@ You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)
 
 ## Contacting me
 If you would, for any reason, want to contact me, you can message me on discord.  
-My username is DerBejijing#2542
+My username is "Der Bejijing#2542"
 
 ---
 

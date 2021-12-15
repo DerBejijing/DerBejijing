@@ -13,7 +13,7 @@ I spend/waste a lot of time digging through minecrafts source code.
   <p align="left">
     <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.svg" width="48"></a>
     <a href="https://www.archlinux.org/">   <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arch.svg" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c.svg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c++.svg" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/processing.png" width="48"></a>
     <a href="https://www.ubuntu.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/ubuntu.svg" width="48"></a>

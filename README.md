@@ -8,15 +8,7 @@ I spend/waste a lot of time digging through minecrafts source code.
 
 <br/>
 
-
-## Current Projects
-~~Right now I am working on a minecraft Coordinate Exploit based on minecrafts randomness algorithm which I decided to make public.  
-You can visit it [here](https://github.com/DerBejijing/BlockRotationExploit)~~  
-
-<br/>
-
-
-## Stuff I am using
+## Languages / tools I am using
 <div style="display: flex;flex-direction: row;">
   <p align="left">
     <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.svg" width="48"></a>

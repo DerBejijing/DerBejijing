@@ -1,10 +1,11 @@
 # DerBejijing
 
 ## About me
-- I am a student from Germany and do programming/reverse engineering in my freetime.  
-- I enjoy programming in java, python, bash, Arduino and c(++) and make minecraft Datapacks.  
-- I am interested in everything about linux and low-level stuff like assembly language.  
-- I used to spend/waste a lot of time digging through minecrafts source code.  
+- :mortar_board: I am a student from Germany and do programming/reverse engineering in my freetime  
+- :computer: I enjoy programming in java, python, bash, Arduino and c and make minecraft Datapacks  
+- :blue_book: I am interested in everything about linux and low-level stuff like assembly language  
+- :musical_note: I build electronic music equipment (sequencers, midi-controllers, ...)  
+- :hearts: Nothing more than c  
 
 <br/>
 
@@ -41,5 +42,4 @@ My username is "Der Bejijing#2542"
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" /> -->
+<img align=left src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=radical" />

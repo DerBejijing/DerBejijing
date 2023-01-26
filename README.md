@@ -12,23 +12,19 @@
 ## Languages / tools I am using
 <div style="display: flex;flex-direction: row;">
   <p align="left">
-    <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.svg" width="48"></a>
-    <a href="https://www.archlinux.org/">   <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arch.svg" width="48"></a>
+    <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.jpg" width="48"></a>
+    <a href="https://www.archlinux.org/">   <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arch.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c.png" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c++.svg" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/processing.png" width="48"></a>
-    <a href="https://www.ubuntu.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/ubuntu.svg" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/bash.svg" width="48"></a>
-    <a href="https://www.github.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/github.svg" width="48"></a>
-    <a href="https://www.arduino.cc/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arduino.svg" width="48"></a>
-    <a href="https://www.eclipse.org/">     <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/eclipse.svg" width="48"></a>
-    <a href="https://www.atom.io">          <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/atom.svg" width="48"></a>
-    <a href="https://www.codeblocks.org/">  <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/codeblocks.svg" width="48"></a>
-    <a href="https://www.python.org/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/python.svg" width="48"></a>
-    <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.svg" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vim.svg" width="48"></a>
-    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/nasm.png" width="48"></a>
-    <a href="https://www.raspberrypi.org/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/raspberrypi.png" width="48"></a>
+    <a href="https://processing.org">       <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/processing.png" width="48"></a>
+    <a href="https://www.ubuntu.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/ubuntu.jpg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/bash.png" width="48"></a>
+    <a href="https://www.github.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/github.png" width="48"></a>
+    <a href="https://www.arduino.cc/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arduino.png" width="48"></a>
+    <a href="https://www.python.org/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/python.png" width="48"></a>
+    <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.jpg" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vim.png" width="48"></a>
+    <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/void.png" width="48"></a>
+    <a href="https://www.raspberrypi.org/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/raspberrypi.jpg" width="48"></a>
   </p>
 </div>
 

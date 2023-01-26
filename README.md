@@ -12,20 +12,20 @@
 ## Languages / tools I am using
 <div style="display: flex;flex-direction: row;">
   <p align="left">
-    <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.jpg" width="48"></a>
+    <a href="https://www.java.com/">        <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/java.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/c.png" width="48"></a>
     <a href="https://processing.org">       <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/processing.png" width="48"></a>
     <a href="https://www.github.com/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/github.png" width="48"></a>
     <a href="https://www.arduino.cc/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arduino.png" width="48"></a>
     <a href="https://www.python.org/">      <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/python.png" width="48"></a>
-    <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.jpg" width="48"></a>
+    <a href="https://www.sublimetext.com/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/sublime.png" width="48"></a>
     <a href="https://www.archlinux.org/">   <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/arch.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/tux.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vim.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/void.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/kicad.png" width="48"></a>
     <a href="#">                            <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/vscode.png" width="48"></a>
-    <a href="https://www.raspberrypi.org/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/raspberrypi.jpg" width="48"></a>
+    <a href="https://www.raspberrypi.org/"> <img src="https://github.com/DerBejijing/DerBejijing/blob/master/icons/raspberrypi.png" width="48"></a>
   </p>
 </div>
 

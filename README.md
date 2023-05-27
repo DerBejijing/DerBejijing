@@ -33,7 +33,7 @@
 
 ## Contacting me
 If you would, for any reason, want to contact me, you can message me on discord.  
-My username is "Der Bejijing#2542"
+My username is "Der Bejijing" with ID 2542.  
 
 ---
 

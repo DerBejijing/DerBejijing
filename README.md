@@ -39,4 +39,4 @@ My username is "Der Bejijing" with ID 2542.
 
 <br/>
 
-<img align=left src="https://github-readme-stats.vercel.app/api?username=DerBejijing&show_icons=true&hide_border=true&theme=radical" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=radical" />

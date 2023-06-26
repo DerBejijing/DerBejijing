@@ -2,10 +2,10 @@
 
 ## About me
 - :mortar_board: I am a student from Germany and do programming/reverse engineering in my freetime  
-- :computer: I enjoy programming in java, python, bash, Arduino and c and make minecraft Datapacks  
+- :computer: I enjoy programming in java, python, bash, Arduino and c  
 - :blue_book: I am interested in everything about linux and low-level stuff like assembly language  
 - :musical_note: I build electronic music equipment (sequencers, midi-controllers, ...)  
-- :hearts: Nothing more than c  
+- :hearts: "Nothing more than c"  
 
 <br/>
 

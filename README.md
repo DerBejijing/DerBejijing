@@ -30,12 +30,4 @@
 
 <br/>
 
-## Contacting me
-If you would, for any reason, want to contact me, you can message me on discord.  
-My username is "Der Bejijing" with ID 2542.  
-
----
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBejijing&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=radical" />
